@@ -24,7 +24,7 @@ TO DO (in terms of coding):
 
 *(added) -Add UI for health, powerups
 
-* Start, pause, exit menu.
+*(added) -Start, pause, exit menu.
  
 * -Merge the existing Object Pooling script and debug it.
  
